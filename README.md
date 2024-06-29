@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @HadilDhifi
-- 👀 I’m interested in learning languages 
-- 🌱 I’m currently learning Frontend development 
-- 💞️ I’m looking to collaborate on beginner-friendly front-end development projects while am eager to learn and grow with the team.
+👋 Hi there! I'm Hadeel Dhifi
+
+🌐 Python Enthusiast | Data Analytics | Big Data
+🔭 Passionate about developing in Python and exploring the realms of Big Data and Data Analytics.
+📊 Enthusiastic about turning data into actionable insights.
+💡 Always learning and growing in the tech world.
+
 - 📫 How to reach me  MyEmail: hadil.dhifi@gmail.com 
 
 <!---
